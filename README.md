@@ -8,7 +8,7 @@ This project is an implementation of the MIRNET model for low light image enhanc
 
 ## Demo
 
-![](https://github.com/jairajmahadev/Low-light-image-enhancement/blob/main/demo%20images/demo.jpg)
+![](https://github.com/jairajmahadev/Low-light-image-enhancement/blob/main/demo%20images/demo1.jpg)
 
 ![](https://github.com/jairajmahadev/Low-light-image-enhancement/blob/main/demo%20images/demo2.jpg)
 
